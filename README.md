@@ -8,7 +8,7 @@ https://pad.gwdg.de/s/Machine_Learning_For_Physicists_2021#).
 
 Keras is an open-source machine learning framework built on the foundation of Tensorflow 2. It is increadibly versitile and is chosen by many scientific organizations like CERN and NASA for its ease of use and applicability.
 
-The series will cover everything from what a neural network is to event selection in CMS and choosing suitable observables for training. The jupyter notebook environment is very convenient for quick scripting and trying out ideas so you are encouraged to play around with the given code and edit it to your wants and needs!
+The series will cover everything from what a neural network is to event selection in CMS, choosing suitable observables for training and event classification using a trained neural network. The jupyter notebook environment is very convenient for quick scripting and trying out ideas so you are encouraged to play around with the given code and edit it to your wants and needs!
 
 The first two notebooks will not dive into Keras just yet but will introduce fundamental concepts of the structure and nature of neural networks using native python and numpy objects only. This will allow us to develop an understanding of what is going on behind the scenes. Later on, many of the finicky details of neural networks will be managed by Keras such that we can focus on the physics problem at hand and can turn our full attention to the research to be conducted!
 
